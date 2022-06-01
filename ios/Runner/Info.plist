@@ -28,6 +28,11 @@
 	<string>PhotoLibrary</string>
 	<key>NSCameraUsageDescription</key>
 	<string>TakePicture</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>GetLocationInUse</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>GetLocationAlwaysInUse</string>
+
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
